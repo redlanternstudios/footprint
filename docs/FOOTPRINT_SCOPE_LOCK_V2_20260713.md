@@ -4,7 +4,11 @@ Version: 2.0
 
 Lock date: 2026 07 13
 
-Owner: Ro
+Legal owner: By Red, LLC
+
+Operating studio: RedLantern Studios
+
+Executive authority: Ro
 
 Design authority: SwarmClaw under the canonical Claudex rules
 
@@ -261,4 +265,3 @@ The system is not done when the interface renders. It is done when a real inboun
 ## CHANGE RULE
 
 Any change to identity authority, public consent, messaging provider, permitted LinkedIn action, content allocation, catastrophic boundary, or publication threshold requires a versioned scope revision and receipt.
-

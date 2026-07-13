@@ -2,6 +2,13 @@
   "contract_version": "1.0",
   "status": "superseded_by_scope_v2_20260713",
   "purpose": "Machine enforceable authority and truth contract for Footprint",
+  "ownership": {
+    "legal_owner": "By Red, LLC",
+    "operating_studio": "RedLantern Studios",
+    "public_brand": "Footprint",
+    "executive_authority": "Rory Semeah",
+    "formal_assumed_name_status": "unknown_do_not_claim"
+  },
   "activation_default": "deny",
   "source_priority": [
     "bridge_current_state",

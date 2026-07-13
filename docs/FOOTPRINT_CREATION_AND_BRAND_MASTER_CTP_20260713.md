@@ -4,7 +4,11 @@ Version: 1.0
 
 Date: 2026 07 13
 
-Owner: Ro
+Legal owner: By Red, LLC
+
+Operating studio: RedLantern Studios
+
+Executive authority: Ro
 
 Status: CREATION INVENTORY READY, BRAND FOUNDATION PROVISIONAL UNTIL NAME CLEARANCE
 
@@ -75,9 +79,11 @@ VERIFIED: Supabase requires RLS, account MFA, production security review, and re
 
 PARTIAL: Existing RedLantern organization accounts may support new Footprint projects. Exact owner access and plan limits are not verified.
 
-UNKNOWN: The legal entity that will own Footprint.
+VERIFIED: By Red, LLC is the legal owner of Footprint.
 
-UNKNOWN: Whether Footprint will be a RedLantern Studios trade name, a By Red LLC asset, or a separate entity.
+VERIFIED: The canonical hierarchy is By Red, LLC, then RedLantern Studios, then Footprint. Footprint is an asset and public product brand of By Red, LLC operated by RedLantern Studios.
+
+UNKNOWN: Whether RedLantern Studios or Footprint is registered as an assumed business name. Formal assumed name language is prohibited until verified.
 
 UNKNOWN: Trademark availability, primary domain availability, and social handle availability.
 
@@ -321,11 +327,11 @@ These fonts already exist in the RedLantern brand system and create family resem
 
 ### Required decisions
 
-1. Name the legal owner of Footprint.
+1. Record the legal owner of Footprint.
 
-Status: UNKNOWN.
+Status: COMPLETE.
 
-Definition of done: one entity is recorded as owner of the name, domains, accounts, intellectual property, data, and contracts.
+Decision: By Red, LLC owns the name, domains, accounts, intellectual property, data, and contracts. RedLantern Studios operates Footprint.
 
 2. Decide whether Footprint is a trade name, product name, or separate entity.
 
@@ -1285,9 +1291,7 @@ Resolution: professional name and trademark search.
 
 ### Legal owner
 
-UNKNOWN: owner entity.
-
-Resolution: Ro and counsel or accountant record the owning entity.
+VERIFIED: By Red, LLC is the owner entity. RedLantern Studios is the operating studio. Footprint is the public product and community brand.
 
 ### Group privacy
 
@@ -1447,7 +1451,7 @@ Mitigation: always reachable runtime, durable queue, monitoring, and restart pro
 
 Run a two part Foundation Gate before any public account creation:
 
-1. Decide the owning legal entity.
+1. Record By Red, LLC as legal owner across the asset registry.
 2. Complete name, domain, LinkedIn URL, and handle clearance for Footprint.
 
 Once this passes, produce the logo system and create the canonical domain, email, LinkedIn Page, and Group under the correct owner.
@@ -1540,4 +1544,3 @@ https://supabase.com/docs/guides/deployment/going-into-prod
 Vercel production checklist:
 
 https://vercel.com/docs/production-checklist
-

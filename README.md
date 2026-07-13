@@ -6,6 +6,8 @@ Its purpose is to invite people to share what they are building, evaluate each s
 
 Footprint helps Rory, Keymon, and RedLantern Studios through transparent participation in a community that creates value for others first.
 
+Footprint is owned by By Red, LLC and built by RedLantern Studios.
+
 ## Current state
 
 VERIFIED: Product direction and scope version 2 are documented.
@@ -25,5 +27,6 @@ UNKNOWN: The selected LinkedIn messaging partner, Page identifier, Group identif
 3. `docs/SWARMCLAW_BUILD_BRIEF_20260713.md`
 4. `docs/V0_CONTROL_ROOM_PROMPT_20260713.md`
 5. `docs/FOOTPRINT_CREATION_AND_BRAND_MASTER_CTP_20260713.md`
+6. `docs/FOOTPRINT_OWNERSHIP_ARCHITECTURE_20260713.md`
 
 The files dated 20260712 preserve the earlier authority engine direction and are superseded where version 2 conflicts with them.

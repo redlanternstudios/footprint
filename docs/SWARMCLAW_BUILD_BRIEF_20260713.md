@@ -4,7 +4,11 @@ Version: 1.0
 
 Date: 2026 07 13
 
-Owner: Ro
+Legal owner: By Red, LLC
+
+Operating studio: RedLantern Studios
+
+Executive authority: Ro
 
 Consumer: ROBBY and the existing SwarmClaw organization
 
@@ -472,4 +476,3 @@ Footprint is done when a real member message enters through an approved partner,
 ## FIRST ACTION
 
 RESEARCH and ARCHITECT must run the approved messaging partner proof and recommend one partner. No publisher, interface, or algorithm code should begin before that decision is evidenced.
-
