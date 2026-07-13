@@ -28,5 +28,6 @@ UNKNOWN: The selected LinkedIn messaging partner, Page identifier, Group identif
 4. `docs/V0_CONTROL_ROOM_PROMPT_20260713.md`
 5. `docs/FOOTPRINT_CREATION_AND_BRAND_MASTER_CTP_20260713.md`
 6. `docs/FOOTPRINT_OWNERSHIP_ARCHITECTURE_20260713.md`
+7. `docs/FOOTPRINT_LOGO_STANDARD_V1_20260713.md`
 
 The files dated 20260712 preserve the earlier authority engine direction and are superseded where version 2 conflicts with them.

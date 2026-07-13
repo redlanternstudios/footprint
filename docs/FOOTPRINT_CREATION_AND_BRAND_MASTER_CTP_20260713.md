@@ -296,11 +296,15 @@ The community: the primary subject of the brand.
 7. Hidden sales language.
 8. Paternalistic language toward early work.
 
-### Visual idea
+### Official visual identity
 
-Do not use a literal shoe print as the primary mark.
+VERIFIED: Ro selected the official Footprint logo on 2026 07 13.
 
-Recommended symbol territory: an open path, signal rings, a waypoint, or an abstract F built from connected movement. The mark should express discovery and forward motion without looking like carbon tracking, surveillance, or location tracking.
+The official design uses a hand rendered human footprint above a lowercase hand rendered `footprint.` wordmark. The terminal period and irregular ink texture are mandatory parts of the identity.
+
+The earlier abstract symbol recommendation is superseded by this direct user selection.
+
+Production use follows `FOOTPRINT_LOGO_STANDARD_V1_20260713.md`.
 
 ### Provisional palette
 
@@ -529,6 +533,8 @@ These names are provisional until name and trademark review.
 ## PHASE 5: LOGO AND VISUAL IDENTITY KIT
 
 ### Logo system
+
+Status: OFFICIAL PRIMARY DESIGN SELECTED. PRODUCTION SOURCE INGEST AND DERIVATIVES PENDING.
 
 1. Primary horizontal logo.
 2. Primary stacked logo.

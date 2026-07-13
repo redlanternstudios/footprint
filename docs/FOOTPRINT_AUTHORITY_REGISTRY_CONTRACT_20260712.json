@@ -9,6 +9,17 @@
     "executive_authority": "Rory Semeah",
     "formal_assumed_name_status": "unknown_do_not_claim"
   },
+  "brand_identity": {
+    "official_logo_version": "1.0",
+    "selected_at": "2026-07-13",
+    "selected_by": "Rory Semeah",
+    "source_filename": "ChatGPT Image Jul 13, 2026, 02_00_23 PM.png",
+    "source_ingest_status": "pending_filesystem_availability",
+    "transparency_status": "unknown",
+    "terminal_period_required": true,
+    "primary_mark_color": "#11100E",
+    "standard_ref": "docs/FOOTPRINT_LOGO_STANDARD_V1_20260713.md"
+  },
   "activation_default": "deny",
   "source_priority": [
     "bridge_current_state",
