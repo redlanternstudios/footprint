@@ -48,17 +48,18 @@ UNKNOWN: The live Supabase project, production n8n host, model routing, and publ
 
 ## CANONICAL INPUTS
 
-1. `FOOTPRINT_SCOPE_LOCK_V2_20260713.md`
-2. `FOOTPRINT_ALGORITHM_CTP_20260713.md`
-3. `FOOTPRINT_AUTHORITY_REGISTRY_CONTRACT_20260712.json`
-4. `FOOTPRINT_DECISION_EXECUTION_PROOF_CTP_20260713.md`
-5. `../../ctp.md`
-6. `../../Claudex/OPS/BRIDGE.json`
-7. `../../Claudex/OPS/BRIDGE_PROTOCOL.md`
-8. `../../Claudex/OPS/TODAY.md`
-9. `../../Claudex/OPS/AGENT_PERMISSIONS.md`
-10. `../../Claudex/swarmclaw/CRITICAL_THOUGHT_PROCESS.md`
-11. `../../Claudex/swarmclaw/AGENT_REGISTRY.md`
+1. `FOOTPRINT_TEAM_PRETRAINING_PROTOCOL_V1_20260713.md`
+2. `FOOTPRINT_SCOPE_LOCK_V2_20260713.md`
+3. `FOOTPRINT_ALGORITHM_CTP_20260713.md`
+4. `FOOTPRINT_AUTHORITY_REGISTRY_CONTRACT_20260712.json`
+5. `FOOTPRINT_DECISION_EXECUTION_PROOF_CTP_20260713.md`
+6. `../../ctp.md`
+7. `../../Claudex/OPS/BRIDGE.json`
+8. `../../Claudex/OPS/BRIDGE_PROTOCOL.md`
+9. `../../Claudex/OPS/TODAY.md`
+10. `../../Claudex/OPS/AGENT_PERMISSIONS.md`
+11. `../../Claudex/swarmclaw/CRITICAL_THOUGHT_PROCESS.md`
+12. `../../Claudex/swarmclaw/AGENT_REGISTRY.md`
 
 ## EXECUTION VERDICT
 
@@ -126,19 +127,21 @@ Story points: 3.
 4. Read `../../Claudex/OPS/TODAY.md`.
 5. Read `../../Claudex/OPS/AGENT_PERMISSIONS.md`.
 6. Read `../../ctp.md`.
-7. Read the Footprint scope lock version 2.
-8. Read the Footprint algorithm CTP.
-9. Read the Footprint authority registry contract.
-10. Read the Footprint decision execution proof CTP.
-11. Confirm Claudex alignment is not RED. If it is RED, stop and return HOLD without attempting product work.
-12. Verify whether Footprint is registered in the validated bridge product registry.
-13. Verify a Footprint lane is open without replacing, closing, or rewriting The Lantern.
-14. Verify every required agent is currently allowed.
-15. Resolve DESIGNER to DESIGN and REVIEWER to REVIEW aliases.
-16. Verify PM authentication or assign the permitted equivalent through ROBBY.
-17. Verify live model routing against canonical routing policy.
-18. Record Supabase, n8n, repository, analytics, and error monitoring ownership without recording secret values.
-19. Return one verdict: READY or HOLD.
+7. Read the Footprint team pretraining protocol version 1.
+8. Record the exact training version and complete its comprehension gate.
+9. Read the Footprint scope lock version 2.
+10. Read the Footprint algorithm CTP.
+11. Read the Footprint authority registry contract.
+12. Read the Footprint decision execution proof CTP.
+13. Confirm Claudex alignment is not RED. If it is RED, stop and return HOLD without attempting product work.
+14. Verify whether Footprint is registered in the validated bridge product registry.
+15. Verify a Footprint lane is open without replacing, closing, or rewriting The Lantern.
+16. Verify every required agent is currently allowed.
+17. Resolve DESIGNER to DESIGN and REVIEWER to REVIEW aliases.
+18. Verify PM authentication or assign the permitted equivalent through ROBBY.
+19. Verify live model routing against canonical routing policy.
+20. Record Supabase, n8n, repository, analytics, and error monitoring ownership without recording secret values.
+21. Return one verdict: READY or HOLD.
 
 ### PREFLIGHT ACCEPTANCE
 
@@ -155,6 +158,8 @@ PF4: Any unavailable role has an explicit authorized substitute or blocks READY.
 PF5: No secret value appears in the receipt.
 
 PF6: The verdict lists every blocker and the owner who can resolve it.
+
+PF7: The receipt records the exact pretraining version and a passing comprehension result for every assigned role.
 
 ### PREFLIGHT OUTPUT
 

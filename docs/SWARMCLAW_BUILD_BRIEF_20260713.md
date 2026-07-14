@@ -14,11 +14,15 @@ Consumer: ROBBY and the existing SwarmClaw organization
 
 Status: READY FOR PARTNER PROOF AND LANE REGISTRATION
 
+Required team source: `FOOTPRINT_TEAM_PRETRAINING_PROTOCOL_V1_20260713.md`
+
 ## OBJECTIVE
 
 Design and build Footprint as a fully autonomous community opportunity network whose primary intake and reach surface is LinkedIn.
 
 The engine welcomes people, receives work and ideas, provides a useful private route, obtains consent for public use, publishes selected work without oversaturation, and learns from contributor and audience outcomes.
+
+Every assigned person or agent must pass the team pretraining comprehension gate before receiving a task packet. Training alone does not grant implementation authority.
 
 ## REALITY CHECK
 

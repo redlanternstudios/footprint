@@ -22,12 +22,21 @@ UNKNOWN: The selected LinkedIn messaging partner, Page identifier, Group identif
 
 ## Canonical planning files
 
-1. `docs/FOOTPRINT_SCOPE_LOCK_V2_20260713.md`
-2. `docs/FOOTPRINT_ALGORITHM_CTP_20260713.md`
-3. `docs/SWARMCLAW_BUILD_BRIEF_20260713.md`
-4. `docs/V0_CONTROL_ROOM_PROMPT_20260713.md`
-5. `docs/FOOTPRINT_CREATION_AND_BRAND_MASTER_CTP_20260713.md`
-6. `docs/FOOTPRINT_OWNERSHIP_ARCHITECTURE_20260713.md`
-7. `docs/FOOTPRINT_LOGO_STANDARD_V1_20260713.md`
+1. `docs/FOOTPRINT_TEAM_PRETRAINING_PROTOCOL_V1_20260713.md`
+2. `docs/FOOTPRINT_SCOPE_LOCK_V2_20260713.md`
+3. `docs/FOOTPRINT_ALGORITHM_CTP_20260713.md`
+4. `docs/SWARMCLAW_BUILD_BRIEF_20260713.md`
+5. `docs/V0_CONTROL_ROOM_PROMPT_20260713.md`
+6. `docs/FOOTPRINT_CREATION_AND_BRAND_MASTER_CTP_20260713.md`
+7. `docs/FOOTPRINT_OWNERSHIP_ARCHITECTURE_20260713.md`
+8. `docs/FOOTPRINT_LOGO_STANDARD_V1_20260713.md`
+
+## Team pretraining
+
+Every person or agent assigned to Footprint must read `docs/FOOTPRINT_TEAM_PRETRAINING_PROTOCOL_V1_20260713.md` before receiving task authority.
+
+The human reading copy is `output/pdf/Footprint_Team_Pretraining_Protocol_V1.pdf`.
+
+Reading the protocol does not authorize implementation. The Claudex bridge, the current Footprint lane, the SwarmClaw preflight, and the named task packet still control whether work may begin.
 
 The files dated 20260712 preserve the earlier authority engine direction and are superseded where version 2 conflicts with them.
