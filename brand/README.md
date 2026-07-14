@@ -15,5 +15,8 @@ Official logo standard: `../docs/FOOTPRINT_LOGO_STANDARD_V1_20260713.md`
 5. `exports/print/` for print quality files.
 6. `templates/` for approved social and marketing templates.
 
-The exact selected source image is not yet present in this repository. Do not create an imitation or placeholder and call it official.
+VERIFIED: The exact selected source image is stored at `source/footprint_official_logo_v1_source.png`.
 
+VERIFIED: The source checksum and production state are recorded in `manifest.json`.
+
+VERIFIED: The source has no alpha channel and contains an embedded checkerboard. Use it as the untouched selection record, not as a public transparent export.

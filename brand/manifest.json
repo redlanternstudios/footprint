@@ -1,0 +1,41 @@
+{
+  "brand": "Footprint",
+  "legal_owner": "By Red, LLC",
+  "operating_studio": "RedLantern Studios",
+  "logo_version": "1.0",
+  "selected_at": "2026-07-13",
+  "selected_by": "Rory Semeah",
+  "status": "official_source_ingested_production_derivatives_pending",
+  "source": {
+    "original_filename": "footprint. - Official Logo.png",
+    "repository_path": "brand/source/footprint_official_logo_v1_source.png",
+    "sha256": "9bd8859e541c59ac6c6241c4eef52a1f9157739b34bfbd9f71fc7154c983aa79",
+    "width_px": 1254,
+    "height_px": 1254,
+    "format": "png",
+    "has_alpha": false,
+    "checkerboard_embedded": true,
+    "modified_during_ingest": false
+  },
+  "locked_elements": [
+    "hand_rendered_human_footprint",
+    "lowercase_hand_rendered_wordmark",
+    "terminal_period",
+    "irregular_ink_texture",
+    "vertical_primary_arrangement",
+    "monochrome_primary_identity"
+  ],
+  "production_gates": {
+    "transparent_master": "pending",
+    "white_reverse_master": "pending",
+    "symbol_only_master": "pending",
+    "wordmark_only_master": "pending",
+    "vector_master": "pending",
+    "linkedin_exports": "pending",
+    "web_exports": "pending",
+    "small_size_test": "pending",
+    "accessibility_test": "pending",
+    "trademark_review": "pending"
+  },
+  "standard_ref": "docs/FOOTPRINT_LOGO_STANDARD_V1_20260713.md"
+}

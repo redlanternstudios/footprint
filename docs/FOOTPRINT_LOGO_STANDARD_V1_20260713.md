@@ -10,7 +10,7 @@ Legal owner: By Red, LLC
 
 Operating studio: RedLantern Studios
 
-Status: OFFICIAL DESIGN SELECTED, SOURCE FILE INGEST PENDING
+Status: OFFICIAL SOURCE INGESTED, PRODUCTION DERIVATIVES PENDING
 
 ## OFFICIAL DESIGN
 
@@ -49,17 +49,27 @@ UNKNOWN: The formal copyright treatment available for the original generated art
 
 The source supplied by Ro is named:
 
-`ChatGPT Image Jul 13, 2026, 02_00_23 PM.png`
+`footprint. - Official Logo.png`
 
-The exact source bytes are not yet available inside the shared repository filesystem. The design decision is locked, but the production asset cannot be called ingested until the file is present in `brand/source/` and its checksum is recorded.
+VERIFIED: The exact source bytes are preserved without modification at:
+
+`brand/source/footprint_official_logo_v1_source.png`
+
+VERIFIED SHA 256:
+
+`9bd8859e541c59ac6c6241c4eef52a1f9157739b34bfbd9f71fc7154c983aa79`
+
+VERIFIED dimensions: 1254 by 1254 pixels.
+
+VERIFIED format: PNG.
 
 ## CHECKERBOARD RULE
 
 The gray and white checkerboard visible in the supplied preview is not part of the Footprint brand.
 
-The production master must contain actual transparency. The checkerboard may not be flattened into any public logo export.
+VERIFIED: The supplied source has no alpha channel. The checkerboard is embedded in the source pixels.
 
-Transparency remains UNKNOWN until the source file is ingested and inspected.
+The production master must contain actual transparency. The embedded checkerboard may not appear in any public logo export.
 
 ## PRIMARY LOCKUP
 
@@ -153,11 +163,11 @@ Final clear space and minimum size measurements require the production vector an
 
 ## PRODUCTION ACCEPTANCE CRITERIA
 
-AC1: The exact source PNG is stored in `brand/source/`.
+AC1: PASS. The exact source PNG is stored in `brand/source/`.
 
-AC2: A SHA 256 checksum is recorded.
+AC2: PASS. A SHA 256 checksum is recorded.
 
-AC3: The file contains actual transparency and no embedded checkerboard.
+AC3: OPEN. The production master must contain actual transparency and no embedded checkerboard.
 
 AC4: The transparent black export matches the selected artwork.
 
@@ -176,4 +186,3 @@ AC10: Name and trademark clearance are completed before registration or exclusiv
 ## DEFINITION OF DONE
 
 The logo system is production ready when the exact source is ingested, transparency is verified, the checksum is recorded, all derivatives and platform exports exist, accessibility and small size tests pass, the asset manifest is complete, and trademark counsel has reviewed the identity.
-
